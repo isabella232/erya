@@ -32,3 +32,5 @@
     - [超星网课助手](https://greasyfork.org/zh-CN/scripts/369625-%E8%B6%85%E6%98%9F%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B)
 - 有问题欢迎提issue或者联系 <Juszoe.cn+erya@gmail.com>
 - 如果觉得这个脚本有用欢迎推荐给你的同学
+# 赞助
+![赞助二维码](https://api.tensor-flow.club:8700/static/alipaycode.png)
